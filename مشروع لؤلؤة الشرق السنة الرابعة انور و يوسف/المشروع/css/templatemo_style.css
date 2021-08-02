@@ -1,0 +1,503 @@
+.lolo2 {
+  font-family:"Times New Roman", Times, serif;
+  font-size:14px;
+  font-weight:bold;
+  color:#FFC000;
+  background-color: #666666;
+}
+
+.lolo1 {
+  font-family:"Times New Roman", Times, serif;
+  font-size:14px;
+  font-weight:bold;
+  color:#FFC000;
+}
+
+.dropbtn5 {
+  font-family:"Times New Roman", Times, serif;
+  font-size:16px;
+  font-weight:bold;
+  color:#FFC000;
+  text-decoration:none;
+  padding: 0px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown5 {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown5-content {
+  display: none;
+  position: absolute;
+  left:-40px;
+  background-color: #12110F;
+  min-width: 120px;
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown5-content a {
+  padding: 5px 14px;
+  font-family:"Times New Roman", Times, serif;
+  font-size:18px;
+  font-weight:bold;
+  color:#FFC000;
+  text-decoration:none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown5-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown5:hover .dropdown5-content {display: block;}
+
+
+
+
+.dropbtn4 {
+  font-family:"Times New Roman", Times, serif;
+  font-size:16px;
+  font-weight:bold;
+  color:#FFC000;
+  text-decoration:none;
+  padding: 0px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown4 {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown4-content {
+  display: none;
+  position: absolute;
+  left:-40px;
+  background-color: #12110F;
+  min-width: 120px;
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown4-content a {
+  padding: 5px 14px;
+  font-family:"Times New Roman", Times, serif;
+  font-size:18px;
+  font-weight:bold;
+  color:#FFC000;
+  text-decoration:none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown4-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown4:hover .dropdown4-content {display: block;}
+
+
+
+.dropbtn3 {
+  font-family:"Times New Roman", Times, serif;
+  font-size:16px;
+  font-weight:bold;
+  color:#FFC000;
+  text-decoration:none;
+  padding: 0px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown3 {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown3-content {
+  display: none;
+  position: absolute;
+  left:-60px;
+  background-color: #12110F;
+  min-width: 150px;
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown3-content a {
+  padding: 5px 14px;
+  font-family:"Times New Roman", Times, serif;
+  font-size:18px;
+  font-weight:bold;
+  color:#FFC000;
+  text-decoration:none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown3-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown3:hover .dropdown3-content {display: block;}
+
+
+.dropbtn2 {
+  font-family:"Times New Roman", Times, serif;
+  font-size:16px;
+  font-weight:bold;
+  color:#FFC000;
+  text-decoration:none;
+  padding: 0px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown2 {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown2-content {
+  display: none;
+  position: absolute;
+  left:-10px;
+  background-color: #12110F;
+  min-width: 120px;
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown2-content a {
+  padding: 5px 14px;
+  font-family:"Times New Roman", Times, serif;
+  font-size:18px;
+  font-weight:bold;
+  color:#FFC000;
+  text-decoration:none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown2-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown2:hover .dropdown2-content {display: block;}
+
+
+.dropbtn1 {
+  font-family:"Times New Roman", Times, serif;
+  font-size:16px;
+  font-weight:bold;
+  color:#FFC000;
+  text-decoration:none;
+  padding: 0px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown1 {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown1-content {
+  display: none;
+  position: absolute;
+  left:-40px;
+  background-color: #12110F;
+  min-width: 120px;
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown1-content a {
+  padding: 5px 14px;
+  font-family:"Times New Roman", Times, serif;
+  font-size:18px;
+  font-weight:bold;
+  color:#FFC000;
+  text-decoration:none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown1-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown1:hover .dropdown1-content {display: block;}
+
+
+.dropbtn {
+  font-family:"Times New Roman", Times, serif;
+  font-size:16px;
+  font-weight:bold;
+  color:#FFC000;
+  text-decoration:none;
+  padding: 0px;
+  border: none;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #12110F;
+  min-width: 70px;
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  padding: 5px 14px;
+  font-family:"Times New Roman", Times, serif;
+  font-size:18px;
+  font-weight:bold;
+  color:#FFC000;
+  text-decoration:none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+
+
+body {
+	margin: 0;
+	padding: 0;
+	line-height: 1.5em;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background: #12110f;
+}
+.style1
+{
+	font-family:"Times New Roman", Times, serif;
+	font-size:14px;
+}
+.style435
+{
+	font-family:"Times New Roman", Times, serif;
+	font-size:18px;
+	font-weight:bold;
+	color:#FFC000;
+	text-decoration:none;
+	text-align:justify;
+	line-height:130%;
+	direction:rtl;
+}
+
+
+
+.cleaner {
+	clear: both;
+	width: 100%;
+	height: 1px;
+	font-size: 1px;	
+}
+
+p {
+	margin: 0px;
+	padding: 0px;
+}
+
+img {
+	margin: 0px;
+	padding: 0px;
+	border: none;
+}
+
+.cleaner_w10 {
+	float: left;
+	width: 10px;
+	height: 100%;
+	font-size: 1px;	
+}
+
+.cleaner_h10 {
+	clear: both;
+	width: 100%;
+	height: 10px;
+	font-size: 1px;	
+}
+
+.cleaner_h20 {
+	clear: both;
+	width: 100%;
+	height: 20px;
+	font-size: 1px;	
+}
+
+.cleaner_h30 {
+	clear: both;
+	width: 100%;
+	height: 30px;
+	font-size: 1px;	
+}
+
+.cleaner_h40 {
+	clear: both;
+	width: 100%;
+	height: 40px;
+	font-size: 1px;	
+}
+
+.cleaner_horizontal_divider_01 {
+	clear: both;
+	width: 100%;
+	height: 2px;
+	font-size: 1px;	
+	background: url(../images/templatemo_horizontal_divider_01.jpg) repeat-x;
+}
+
+.rc_btn_01 a{
+	float: left;
+	clear: both;
+	display: block;
+	width: 150px;
+	padding: 4px 0 5px 0;
+	text-align: center;
+	background: url(../images/templatemo_button_01.jpg) no-repeat;
+	color: #000000;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.rc_btn_02 a{
+	float: left;
+	clear: both;
+	display: block;
+	width: 100px;
+	padding: 4px 0 5px 0;
+	text-align: center;
+	background: url(../images/templatemo_button_02.jpg) no-repeat;
+	color: #000000;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#templatemo_container{
+	width: 960px;
+	margin: 0 auto;
+	margin-top:25px;
+	padding: 0 10px;
+} 
+
+#templatemo_header {
+	width: 940px;
+	height: 120px;
+	margin: 0px;
+	padding: 0px;
+	font-family: "Times New Roman", Times, serif;
+	background: url(../images/templatemo_header_bg.jpg) no-repeat;
+}
+
+#templatemo_header #website_title {
+	width: 360px;
+	margin-left: 290px;
+	padding: 45px 0 0 0;
+	text-align: center;
+}
+
+#website_title #title {
+	font-size: 40px;
+	color: #f9f886;
+	margin-bottom: 10px;
+}
+
+#website_title #salgon {
+	clear: both;
+	font-size: 16px;
+	color:#FFF;
+}
+
+/* banner */
+#templatemo_banner {
+	clear: both;
+	width: 940px;
+	height: 280px;
+	margin: 0px;
+	padding: 0px;
+	background: url(../images/templatemo_banner_bg.jpg) no-repeat;
+}
+
+#templatemo_banner #templatemo_menu{
+	float: left;
+	width: 580px;
+	height: 50px;
+	/* background: url(../images/templatemo_menu_bg.png) no-repeat; */
+}
+
+#templatemo_menu ul {
+	width: 580px;
+	margin: 15px 0 0 180px;
+	padding: 0px;
+	list-style: none;
+}
+
+#templatemo_menu ul li{
+	display: inline;
+}
+
+#templatemo_menu ul li a{
+	float: left;
+	padding: 0 20px;
+	font-size: 14px;
+	text-align: center;
+	text-decoration: none;
+	background: url(../images/templatemo_menu_divider.gif) top right repeat-y;
+	color: #FFF;
+	font-weight: bold;
+	outline: none;
+}
+
+#templatemo_menu li a:hover, #templatemo_menu li .current{
+	color: #eceb81;
+}
+/* end of menu*/
+/* end of banner */
+
+/* content */
+
+#templatemo_content {
+	clear: both;
+	position: relative;
+	width: 940px;
+	margin: 0px;
+	padding: 0px;
+	background: #3c3936;
+}
+
+
+
+/* footer */
+#templatemo_footer {
+	clear: both;
+	width: 940px;
+	margin-bottom: 10px;
+	padding: 0px 0 0px 0;
+	text-align: center;
+	color: #b0af54;
+	background: #221f1d url(../images/templatemo_content_bottom.jpg) bottom no-repeat;
+}
+/* end of footer */

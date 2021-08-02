@@ -1,0 +1,86 @@
+<link href="../../css/style.css" rel="stylesheet" type="text/css" />
+<table id="middletable" width="100%" border="0" cellpadding="0" cellspacing="3">
+  <tr>
+    <td align="center" bgcolor="#BA0D13" dir="rtl"><a style="color:#F7971F;" href="index.php?log=out">تسجيل الخروج </a></td>
+    <td width="83%" align="right" bgcolor="#BA0D13" class="Title" dir="rtl">الرسالة عرض </td>
+  </tr>
+</table>
+<?
+
+include("../../database/students/StudentsDbase.php");
+
+$dba = new StudentsDbase();
+
+include("../../database/teachars/TeacharsDbase.php");
+
+$dbaa = new TeacharsDbase();
+
+include("../../database/msgs/MsgsDbase.php");
+
+$db = new MsgsDbase();
+
+if($addStudent != "")
+{
+
+$std = new Msgs();
+
+$std->id = $msg_id;
+
+$std->student_id = $_SESSION['login_id'];
+
+$std->teacher_id = $teacher_id;
+
+$std->msg_title = $msg_title;
+
+$std->msg = $msg;
+
+$std->msg_datetime = date("Y-m-d H:i:s");
+
+$std->msg_shown = "false";
+
+$db->updateMsgs($std);
+
+?>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="middle" class="Msg">تم ارسال الرسالة </td>
+  </tr>
+</table>
+
+<?
+
+}
+
+$ffffff = $db->getMsgs($msg_id);
+
+$db->updateMsgsShown($msg_id);
+
+?>
+
+
+<form name="form1" method="post" action="">
+  <table width="80%" border="0" align="center" cellpadding="2" cellspacing="2">
+    <tr>
+      <td align="right"><input name="teacher_id" type="text" class="selectAndText" id="teacher_id" value="<? 
+	   $trtrt = $dbaa->getTeachar($ffffff->teacher_id); 
+	   echo $trtrt->name;
+	   ?>" /></td>
+      <td align="right" class="tahomaFont">:</td>
+      <td align="right" class="tahomaFont">الاستاذ</td>
+    </tr>
+    <tr>
+      <td align="right"><input name="msg_title" type="text" class="selectAndText" id="msg_title" value="<? echo $ffffff->msg_title; ?>"></td>
+      <td width="3" align="right" class="tahomaFont">:</td>
+      <td width="198" align="right" class="tahomaFont">العنوان</td>
+    </tr>
+    <tr>
+      <td align="right"><textarea name="msg" class="selectAndText" id="msg" style="width:300px;height:100px"><? echo $ffffff->msg; ?></textarea></td>
+      <td align="right" class="tahomaFont">:</td>
+      <td align="right" class="tahomaFont">نص الرسالة </td>
+    </tr>
+   
+    <tr>
+      <td colspan="3" align="center"><input name="msg_id" type="hidden" id="msg_id" value="<? echo $msg_id; ?>" /></td>
+    </tr>
+  </table>
+</form>

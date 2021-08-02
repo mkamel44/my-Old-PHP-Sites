@@ -1,0 +1,168 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.tahomaFont
+{
+	font-family:Tahoma;
+	font-size:14px;
+	color:#660000;
+
+}
+.selectAndText
+{
+	direction:rtl;
+	font-family:Tahoma;
+	font-size:13px;
+	color:#FFFFFF;
+	background:#0099FF;
+	width:180px;
+}
+.selectAndText40
+{
+	direction:rtl;
+	font-family:Tahoma;
+	font-size:13px;
+	color:#FFFFFF;
+	background:#0099FF;
+	width:40px;
+}
+.Msg
+{
+	font-family:Tahoma;
+	font-size:13px;
+	color:#FFFFFF;
+	background:#F89422;
+}
+
+.button
+{
+	font-family:Tahoma;
+	font-size:13px;
+	color:#FFFFFF;
+	background:#0099FF;
+	width:100px;
+}
+
+.link
+{
+	font-family:Tahoma;
+	font-size:13px;
+	color:#F7971F;
+	width:100px;
+	text-decoration:none;
+}
+
+.column
+{
+	font-family:Tahoma;
+	font-size:13px;
+	color:#FFFFFF;
+	background:#BA0D13;
+	
+}
+
+.row
+{
+	font-family:Tahoma;
+	font-size:13px;
+	color:#FFFFFF;
+	background:#3366FF;
+	
+}
+
+/* CSS Document */
+a:link 
+{ 
+font-family:Traditional Arabic;
+font-style:italic;
+font-weight:bold;
+color:#003333;
+font-size:20px;
+line-height:1;
+} 
+a:hover 
+{
+font-family:Traditional Arabic;
+font-style:italic;
+font-weight:bold;
+color:#0033FF;
+font-size:20px;
+line-height:1;
+} 
+a:active  
+{
+font-family:Traditional Arabic;
+font-style:italic;
+font-weight:bold;
+color:#0033FF;
+font-size:20px;
+line-height:1;
+} 
+a:visited
+{ 
+font-family:Traditional Arabic;
+font-style:italic;
+font-weight:bold;
+color:#0033FF;
+font-size:20px;
+line-height:1;
+} 
+.Title
+{
+font-family:Traditional Arabic;
+font-style:italic;
+font-weight:bold;
+color:#FFFFFF;
+font-size:20px;
+line-height:1;
+}
+.Label
+{
+font-family:Traditional Arabic;
+color:#000000;
+font-size:20px;
+line-height:1;
+}
+.TextFileds
+{
+font-family:Traditional Arabic;
+font-weight:bold;
+color:#000000;
+font-size:19px;
+width:140px;
+line-height:1;
+height:20px;
+padding:0px;
+margin:0px;
+}
+.ComboBox
+{
+font-family:Traditional Arabic;
+font-weight:bold;
+color:#000000;
+font-size:19px;
+width:144px;
+height:30px;
+}
+.Button
+{
+font-family:Traditional Arabic;
+font-weight:bold;
+color:#000000;
+font-size:15px;
+line-height:1;
+height:25px;
+}
+
+.Footer
+{
+font-family:Traditional Arabic;
+font-style:italic;
+color:#FFFFFF;
+font-size:17px;
+font-weight:bold;
+}
+

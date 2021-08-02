@@ -1,0 +1,243 @@
+<?
+include("autho_cp_index.php");
+?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<title>تسجيل الدخول</title>
+<style type="text/css">
+<!--
+body {
+	background-color: #7A0309;
+}
+.style1 {
+	font-family: "Times New Roman", Times, serif;
+	font-weight:bold;
+	font-size:18px;
+}
+-->
+</style></head>
+<body>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<form id="form1" name="form1" method="post" action="">	
+
+ <?
+
+
+if($Submit == "تسجيل الدخول")
+{
+
+include("database/Connection.php");
+
+$pass = md5(preg_replace('/[^a-zA-Z0-9]/','',$pass));
+
+$name = md5(preg_replace('/[^a-zA-Z0-9]/','',$name));
+
+include("database/supervisor/SupervisorDbase.php");
+		
+$db = new SupervisorDbase();
+		
+$adm = new Supervisor();
+		
+$adm->name = $name;
+		
+$adm->password = $pass;
+
+$adm->id = $depa;
+		
+$ss = $db->checkSupervisor($adm);
+		
+			if($ss == true)
+			{
+
+				if($depa == "1")
+				{
+				$_SESSION["login_cp"] = true;
+				
+				$_SESSION["login_depa"] = $depa;
+				
+				$_SESSION["login_time"] =  date("Y-m-d H:i:s");
+				
+					?>
+				  <script language='JavaScript' type='text/javascript'>
+					window.location='desgin/admin/index.php';
+				  </script>
+				  <?	
+				}
+				  
+				 if($depa == 2)
+				{
+				$_SESSION["login_cards"] = true;
+				
+				$_SESSION["login_depa"] = $depa;
+				
+				$_SESSION["login_time"] =  date("Y-m-d H:i:s");
+				
+					?>
+				  <script language='JavaScript' type='text/javascript'>
+					window.location='desgin/cards/index.php';
+				  </script>
+				  <?	
+				}
+				
+				 if($depa == 3)
+				{
+				$_SESSION["login_cards"] = true;
+				
+				$_SESSION["login_depa"] = $depa;
+				
+				$_SESSION["login_time"] =  date("Y-m-d H:i:s");
+				
+					?>
+				  <script language='JavaScript' type='text/javascript'>
+					window.location='desgin/kidsgame/index.php';
+				  </script>
+				  <?	
+				}
+
+				 if($depa == 4)
+				{
+				$_SESSION["login_cards"] = true;
+				
+				$_SESSION["login_depa"] = $depa;
+				
+				$_SESSION["login_time"] =  date("Y-m-d H:i:s");
+				
+					?>
+				  <script language='JavaScript' type='text/javascript'>
+					window.location='desgin/swimming/index.php';
+				  </script>
+				  <?	
+				}
+				
+				if($depa == 5)
+				{
+				$_SESSION["login_cards"] = true;
+				
+				$_SESSION["login_depa"] = $depa;
+				
+				$_SESSION["login_time"] =  date("Y-m-d H:i:s");
+				
+					?>
+				  <script language='JavaScript' type='text/javascript'>
+					window.location='desgin/playground/index.php';
+				  </script>
+				  <?	
+				}
+				
+				 if($depa == 6)
+				{
+				$_SESSION["login_cards"] = true;
+				
+				$_SESSION["login_depa"] = $depa;
+				
+				$_SESSION["login_time"] =  date("Y-m-d H:i:s");
+				
+					?>
+				  <script language='JavaScript' type='text/javascript'>
+					window.location='desgin/hotel/index.php';
+				  </script>
+				  <?	
+				}
+				
+				 if($depa == 8)
+				{
+				$_SESSION["login_cards"] = true;
+				
+				$_SESSION["login_depa"] = $depa;
+				
+				$_SESSION["login_time"] =  date("Y-m-d H:i:s");
+				
+					?>
+				  <script language='JavaScript' type='text/javascript'>
+					window.location='desgin/mall/index.php';
+				  </script>
+				  <?	
+				}
+				
+				if($depa == 7)
+				{
+				$_SESSION["login_cards"] = true;
+				
+				$_SESSION["login_depa"] = $depa;
+				
+				$_SESSION["login_time"] =  date("Y-m-d H:i:s");
+				
+					?>
+				  <script language='JavaScript' type='text/javascript'>
+					window.location='desgin/restaurant/index.php';
+				  </script>
+				  <?	
+				}
+				
+			}
+			else
+			{
+			?>
+				  <table width="300" border="0" align="center" cellpadding="0" cellspacing="0">
+					<tr>
+					  <td align="center" valign="middle" bgcolor="#FFFFFF" class="btn-danger"><h4>الاسم او كلمة المروور خطأ</h4> </td>
+					</tr>
+</table>
+<br/>
+  <?
+			} 
+			
+			
+	mysql_close();		
+			
+}
+		?>
+  <table width="0%" height="163" border="1" align="center" cellpadding="2" cellspacing="2">
+          <tr>
+            <td align="center" valign="top"><table width="392" height="153" border="0" align="center" cellpadding="0" cellspacing="0">
+              <tr>
+                <td height="35" colspan="3" align="center" bgcolor="#FFFFFF"  class="style1 bg-danger btn-lg"><strong>الرجاء من  ادخال الاسم وكلمة المرور </strong></td>
+              </tr>
+			   <tr>
+                 <td width="56%" height="34" align="right" bgcolor="#FFFFFF"  class="bg-danger">
+				 <select name="depa" class="style1" id="depa" style="width:155px" dir="rtl">
+				   <option value="1" selected >المدير العام</option>
+				   <option value="2">البطاقة الزكية</option>
+				   <option value="3">العاب الأطفال</option>
+				   <option value="4">المسابح</option>
+				   <option value="5">صالات الرياضية</option>
+				   <option value="6">الفنادق</option>
+				   <option value="7">المطاعم</option>
+				   <option value="8">المول</option>
+                 </select>
+                 </td>
+                 <td align="center" bgcolor="#FFFFFF" class="style1 bg-danger btn-lg"  ><strong>الـقــــــــــسم</strong></td>
+              </tr>
+              <tr>
+                <td width="56%" height="34" align="right" bgcolor="#FFFFFF"  class="bg-danger"><input name="name" type="text" class="style1" id="name" style="text-align:center;width:150px"  /></td>
+                 <td align="center" bgcolor="#FFFFFF" class="style1 bg-danger btn-lg"  ><strong>الاســــــــــــم</strong></td>
+              </tr>
+              <tr>
+                <td height="33" align="right" bgcolor="#FFFFFF"  class="bg-danger"><input name="pass" type="password" class="style1" id="pass" style="text-align:center;width:150px" /></td>
+                <td align="center" bgcolor="#FFFFFF" class="style1 bg-danger btn-lg"  ><strong>كلمة الـمـرور </strong></td>
+              </tr>
+              <tr>
+                <td height="47" colspan="3" align="center" bgcolor="#FFFFFF">
+                  <input name="Submit" type="submit" class="style1" style="width:150px" value="تسجيل الدخول" />                </td>
+              </tr>
+            </table></td>
+          </tr>
+  </table>
+        <p>&nbsp;</p>
+       <p>&nbsp;</p>
+       <p>&nbsp;</p>
+
+</form>
+
+</body>
+</html>

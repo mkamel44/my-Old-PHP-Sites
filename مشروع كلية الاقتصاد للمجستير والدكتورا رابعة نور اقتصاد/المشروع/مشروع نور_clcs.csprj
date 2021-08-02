@@ -1,0 +1,430 @@
+<codestructure version="5.15">
+<phptree>
+<treenode node="../../database/accepted_students/Accepted_StudentsDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\show_Students.php;f9;10;68;10;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addStudents.php;f9;9;68;9;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateStudents.php;f9;10;68;10;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/Connection.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\show_Students.php;f9;4;38;4;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateDifferentiation_dates.php;f9;4;38;4;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addStudents.php;f9;3;38;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateStudents.php;f9;4;38;4;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/depas/DepasDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\show_Students.php;f9;6;44;6;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addStudents.php;f9;5;44;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateStudents.php;f9;6;44;6;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/differentiation_dates/Differentiation_datesDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateDifferentiation_dates.php;f9;6;76;6;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/accepted_students/Accepted_StudentsDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\getStudents.php;f9;5;68;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/Connection.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateText.php;f9;4;38;4;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateExam_Schedule_Times.php;f9;3;38;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showExam_Schedule_Times.php;f9;4;38;4;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\getTimes.php;f9;3;38;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\getStudents.php;f9;3;38;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\deleteExam_Schedule_Times.php;f9;5;38;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addExam_Schedule_Times.php;f9;3;38;3;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/depas/DepasDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showExam_Schedule_Times.php;f9;6;44;6;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addExam_Schedule_Times.php;f9;5;44;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/exam_schedule_days/Exam_ScheduleDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateExam_Schedule_Times.php;f9;5;65;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showExam_Schedule_Times.php;f9;10;65;10;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\getTimes.php;f9;5;65;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\deleteExam_Schedule_Times.php;f9;7;65;7;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addExam_Schedule_Times.php;f9;9;65;9;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/Connection.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\upload_update_pdf2.php;f9;3;38;3;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/some_text/Some_TextDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateText.php;f9;6;52;6;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/theses/ThesesDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\upload_update_pdf2.php;f9;5;46;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/Connection.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateMessages_Debate.php;f9;4;38;4;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addMessages_Debate.php;f9;3;38;3;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/messages/MessagesDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateMessages_Debate.php;f9;6;50;6;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addMessages_Debate.php;f9;5;50;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/accepted_students/Accepted_StudentsDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\deleteStudents.php;f9;7;68;7;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/Connection.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\upload_update_pdf.php;f9;3;38;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\deleteStudents.php;f9;5;38;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/Connection.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\deleteTheses.php;f9;5;38;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/messages/MessagesDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\upload_update_pdf.php;f9;5;50;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/theses/ThesesDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\deleteTheses.php;f9;7;46;7;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/Connection.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showTheses_Debate.php;f9;4;38;4;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showMessages_Debate.php;f9;4;38;4;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\deleteMessages.php;f9;5;38;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addTheses_Debate.php;f9;3;38;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\deleteMessages_Debate.php;f9;5;38;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\deleteTheses_Debate.php;f9;5;38;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showMessages.php;f9;4;38;4;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showTheses.php;f9;4;38;4;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateTheses_Debate.php;f9;4;38;4;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addMessages.php;f9;3;38;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateMessages.php;f9;4;38;4;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addTheses.php;f9;3;38;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateTheses.php;f9;4;38;4;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/depas/DepasDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showMessages.php;f9;6;44;6;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showTheses.php;f9;6;44;6;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addMessages.php;f9;5;44;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateMessages.php;f9;6;44;6;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addTheses.php;f9;5;44;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateTheses.php;f9;6;44;6;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/messages/MessagesDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showMessages_Debate.php;f9;6;50;6;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\deleteMessages.php;f9;7;50;7;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\deleteMessages_Debate.php;f9;7;50;7;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showMessages.php;f9;10;50;10;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addMessages.php;f9;9;50;9;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateMessages.php;f9;10;50;10;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/theses/ThesesDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showTheses_Debate.php;f9;6;46;6;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addTheses_Debate.php;f9;5;46;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\deleteTheses_Debate.php;f9;7;46;7;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showTheses.php;f9;10;46;10;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateTheses_Debate.php;f9;6;46;6;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addTheses.php;f9;9;46;9;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateTheses.php;f9;10;46;10;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/Connection.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateExam_Schedule_Days.php;f9;3;38;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateExam_Schedule.php;f9;4;38;4;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showExam_Schedule.php;f9;4;38;4;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\deleteExam_Schedule_Days.php;f9;5;38;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\deleteExam_Schedule.php;f9;5;38;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addExam_Schedule.php;f9;3;38;3;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/depas/DepasDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateExam_Schedule.php;f9;6;44;6;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showExam_Schedule.php;f9;6;44;6;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addExam_Schedule.php;f9;5;44;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/exam_schedule_days/Exam_ScheduleDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateExam_Schedule_Days.php;f9;5;65;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateExam_Schedule.php;f9;10;65;10;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showExam_Schedule.php;f9;10;65;10;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\deleteExam_Schedule_Days.php;f9;7;65;7;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\deleteExam_Schedule.php;f9;7;65;7;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addExam_Schedule.php;f9;9;65;9;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/accepted_students/Accepted_StudentsDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showAccepted_Students.php;f9;10;68;10;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\deleteAccepted_Students.php;f9;7;68;7;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateAccepted_Students.php;f9;10;68;10;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addAccepted_Students.php;f9;9;68;9;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/Connection.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showTime_Schedule.php;f9;4;38;4;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showExam_Schedule_Days.php;f9;4;38;4;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showAccepted_Students.php;f9;4;38;4;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\getSubjects.php;f9;3;38;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\deleteTime_Schedule.php;f9;5;38;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\deleteAccepted_Students.php;f9;5;38;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addExam_Schedule_Days.php;f9;3;38;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateAccepted_Students.php;f9;4;38;4;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addAccepted_Students.php;f9;3;38;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateTime_Schedule.php;f9;4;38;4;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addTime_Schedule.php;f9;3;38;3;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/depas/DepasDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showTime_Schedule.php;f9;6;44;6;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showAccepted_Students.php;f9;6;44;6;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\getSubjects.php;f9;5;44;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateAccepted_Students.php;f9;6;44;6;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addAccepted_Students.php;f9;5;44;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateTime_Schedule.php;f9;6;44;6;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addTime_Schedule.php;f9;5;44;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/exam_schedule_days/Exam_ScheduleDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showExam_Schedule_Days.php;f9;6;65;6;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addExam_Schedule_Days.php;f9;5;65;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/time_schedule/Time_ScheduleDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showTime_Schedule.php;f9;10;60;10;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\deleteTime_Schedule.php;f9;7;60;7;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateTime_Schedule.php;f9;10;60;10;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addTime_Schedule.php;f9;9;60;9;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/admin/AdminDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updatePass.php;f9;6;44;6;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/Connection.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateSubjects.php;f9;4;38;4;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updatePass.php;f9;4;38;4;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\deleteSubjects.php;f9;5;38;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addSubjects.php;f9;3;38;3;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/depas/DepasDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateSubjects.php;f9;6;44;6;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\deleteSubjects.php;f9;7;44;7;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addSubjects.php;f9;5;44;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/Connection.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showSubjects.php;f9;4;38;4;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showDepas.php;f9;4;38;4;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\deleteDepas.php;f9;5;38;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addDepas.php;f9;3;38;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateDepas.php;f9;4;38;4;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="../../database/depas/DepasDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showSubjects.php;f9;6;44;6;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\showDepas.php;f9;6;44;6;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\deleteDepas.php;f9;7;44;7;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\addDepas.php;f9;5;44;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\desgin\cp\updateDepas.php;f9;6;44;6;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Accepted_Students.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\accepted_students\Accepted_StudentsDbase.php;f9;2;30;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Admin.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\admin\AdminDbase.php;f9;2;18;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="database/accepted_students/Accepted_StudentsDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getAccepted_Students7.php;f9;5;62;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\showAcceptedInfo_Students.php;f9;5;62;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getAccepted_Students6.php;f9;5;62;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="database/admin/AdminDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\cp.php;f9;15;38;15;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="database/Connection.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\showTime_Schedule.php;f9;3;32;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\pg3.php;f9;3;32;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getTime_Schedule.php;f9;3;32;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getText.php;f9;3;32;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getExam_Schedule8.php;f9;3;32;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getAccepted_Students7.php;f9;3;32;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\cp.php;f9;13;32;13;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\showAcceptedInfo_Students.php;f9;3;32;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\pg1.php;f9;1;32;1;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\show_Depas_Subjects.php;f9;3;32;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getSubjects.php;f9;3;32;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\showAccepted_Students.php;f9;3;32;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getAccepted_Students6.php;f9;3;32;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\pg2.php;f9;3;32;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getTheses.php;f9;3;32;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getTheses_ok.php;f9;3;32;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\index.php;f9;3;32;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getMessages_ok.php;f9;3;32;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getMessages.php;f9;3;32;3;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="database/depas/DepasDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\showTime_Schedule.php;f9;5;38;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\pg3.php;f9;5;38;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getTime_Schedule.php;f9;9;38;9;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getExam_Schedule8.php;f9;9;38;9;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getAccepted_Students7.php;f9;9;38;9;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\showAcceptedInfo_Students.php;f9;9;38;9;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\pg1.php;f9;3;38;3;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\show_Depas_Subjects.php;f9;5;38;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getSubjects.php;f9;5;38;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\showAccepted_Students.php;f9;5;38;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getAccepted_Students6.php;f9;9;38;9;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\pg2.php;f9;5;38;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getTheses.php;f9;9;38;9;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getTheses_ok.php;f9;9;38;9;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\index.php;f9;5;38;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getMessages_ok.php;f9;9;38;9;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getMessages.php;f9;9;38;9;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="database/differentiation_dates/Differentiation_datesDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\index.php;f9;9;70;9;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="database/exam_schedule_days/Exam_ScheduleDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getExam_Schedule8.php;f9;5;59;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="database/messages/MessagesDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\index.php;f9;13;44;13;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getMessages_ok.php;f9;5;44;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getMessages.php;f9;5;44;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="database/some_text/Some_TextDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getText.php;f9;5;46;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="database/theses/ThesesDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getTheses.php;f9;5;40;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getTheses_ok.php;f9;5;40;5;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\index.php;f9;17;40;17;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="database/time_schedule/Time_ScheduleDbase.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getTime_Schedule.php;f9;5;54;5;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Depas.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\DepasDbase.php;f9;2;18;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Differentiation_dates.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\differentiation_dates\Differentiation_datesDbase.php;f9;2;34;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Exam_Schedule.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f9;2;26;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Exam_Schedule_Days.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f9;4;31;4;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="footer.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\pg3.php;f14;128;24;128;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\pg1.php;f14;163;24;163;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\pg2.php;f14;128;24;128;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\index.php;f14;163;24;163;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\about.php;f14;275;24;275;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="last_message.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\index.php;f17;155;33;155;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="last_these.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\index.php;f17;157;31;157;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="message.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getMessages.php;f13;123;24;123;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="message_ok.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getMessages_ok.php;f13;116;27;116;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Messages.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\MessagesDbase.php;f9;2;21;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Messages_Debate.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\MessagesDbase.php;f9;4;28;4;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="nav_bar.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\pg3.php;f16;67;27;67;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\pg1.php;f16;55;27;55;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\pg2.php;f16;67;27;67;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\index.php;f16;74;27;74;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\about.php;f16;34;27;34;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Some_Text.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\mytext\Some_TextDbase.php;f9;2;22;2;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\some_text\Some_TextDbase.php;f9;2;22;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Students.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\accepted_students\Accepted_StudentsDbase.php;f9;4;21;4;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Subjects.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\DepasDbase.php;f9;4;21;4;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="theses.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getTheses.php;f13;117;23;117;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Theses.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\ThesesDbase.php;f9;2;19;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Theses_Debate.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\ThesesDbase.php;f9;4;26;4;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="theses_ok.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\getTheses_ok.php;f13;120;26;120;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="time.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\index.php;f17;156;25;156;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Time_Schedule.php;PHP:PHP Include;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\time_schedule\Time_ScheduleDbase.php;f9;2;26;2;;;;vpos;;v;;a;;r;;d-1,-1;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Accepted_Students;PHP:Class Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\accepted_students\Accepted_Students.php;f0;2;1;11;;;;vpos;;v;;a;;r;;d0,3;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Accepted_StudentsDbase;PHP:Class Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\accepted_students\Accepted_StudentsDbase.php;f0;6;1;325;;;;vpos;;v;;a;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="addAccepted_Students;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\accepted_students\Accepted_StudentsDbase.php;f1;306;2;314;;;;vpos;;v;;a;;r;;d1,307;;b0,0;;m0;;ereq;;p">
+</treenode>
+<treenode node="addStudents;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\accepted_students\Accepted_StudentsDbase.php;f1;316;2;324;;;;vpos;;v;;a;;r;;d1,317;;b0,0;;m0;;ereq;;p">
+</treenode>
+<treenode node="deleteAccepted_Students;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\accepted_students\Accepted_StudentsDbase.php;f1;8;2;13;;;;vpos;;v;;a;;r;;d1,9;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="deleteAccepted_StudentsByStudentID;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\accepted_students\Accepted_StudentsDbase.php;f1;15;2;20;;;;vpos;;v;;a;;r;;d1,16;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="deleteStudents;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\accepted_students\Accepted_StudentsDbase.php;f1;22;2;27;;;;vpos;;v;;a;;r;;d1,23;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="getAccepted_Students;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\accepted_students\Accepted_StudentsDbase.php;f1;55;2;86;;;;vpos;;v;;a;;r;;d1,56;;b0,0;;m0;;eoffset;;prow_count;;p">
+</treenode>
+<treenode node="getAccepted_StudentsByID;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\accepted_students\Accepted_StudentsDbase.php;f1;128;2;150;;;;vpos;;v;;a;;r;;d1,129;;b0,0;;m0;;eshop_id;;p">
+</treenode>
+<treenode node="getAccepted_StudentsBySubjectIDAndStudentID;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\accepted_students\Accepted_StudentsDbase.php;f1;152;2;174;;;;vpos;;v;;a;;r;;d1,153;;b0,0;;m0;;estudent_id;;psubject_id;;p">
+</treenode>
+<treenode node="getAllStudents;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\accepted_students\Accepted_StudentsDbase.php;f1;226;2;263;;;;vpos;;v;;a;;r;;d1,227;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getAllStudentsByDepaID;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\accepted_students\Accepted_StudentsDbase.php;f1;265;2;302;;;;vpos;;v;;a;;r;;d1,266;;b0,0;;m0;;edepa_id;;p">
+</treenode>
+<treenode node="getCountAccepted_Students;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\accepted_students\Accepted_StudentsDbase.php;f1;29;2;40;;;;vpos;;v;;a;;r;;d1,30;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getCountStudents;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\accepted_students\Accepted_StudentsDbase.php;f1;42;2;53;;;;vpos;;v;;a;;r;;d1,43;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getStudents;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\accepted_students\Accepted_StudentsDbase.php;f1;88;2;125;;;;vpos;;v;;a;;r;;d1,89;;b0,0;;m0;;eoffset;;prow_count;;p">
+</treenode>
+<treenode node="getStudentsByID;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\accepted_students\Accepted_StudentsDbase.php;f1;177;2;205;;;;vpos;;v;;a;;r;;d1,178;;b0,0;;m0;;eshop_id;;p">
+</treenode>
+<treenode node="updateAccepted_Students;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\accepted_students\Accepted_StudentsDbase.php;f1;208;2;215;;;;vpos;;v;;a;;r;;d1,209;;b0,0;;m0;;ereq;;p">
+</treenode>
+<treenode node="updateStudents;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\accepted_students\Accepted_StudentsDbase.php;f1;217;2;224;;;;vpos;;v;;a;;r;;d1,218;;b0,0;;m0;;ereq;;p">
+</treenode>
+</treenode>
+<treenode node="Admin;PHP:Class Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\admin\Admin.php;f0;2;1;9;;;;vpos;;v;;a;;r;;d0,3;;b0,0;;m0;;e">
+</treenode>
+<treenode node="AdminDbase;PHP:Class Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\admin\AdminDbase.php;f0;4;1;59;;;;vpos;;v;;a;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="checkAdmin;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\differentiation_dates\Differentiation_datesDbase.php;f1;6;2;25;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\mytext\Some_TextDbase.php;f1;6;2;25;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\admin\AdminDbase.php;f1;6;2;25;;;;vpos;;v;;a;;r;;d1,7;;b0,0;;m0;;eadmin;;p">
+</treenode>
+<treenode node="geta;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\differentiation_dates\Differentiation_datesDbase.php;f1;49;2;60;;;;vpos;;v;;a;;r;;d1,40;;b0,0;;m0;;eid;;p">
+</treenode>
+<treenode node="getAdmin;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\mytext\Some_TextDbase.php;f1;39;2;57;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\admin\AdminDbase.php;f1;39;2;57;;;;vpos;;v;;a;;r;;d1,40;;b0,0;;m0;;eid;;p">
+</treenode>
+<treenode node="updatea;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\differentiation_dates\Differentiation_datesDbase.php;f1;39;2;47;;;;vpos;;v;;a;;r;;d1,40;;b0,0;;m0;;ea;;paaa;;p">
+</treenode>
+<treenode node="updateAdmin;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\differentiation_dates\Differentiation_datesDbase.php;f1;28;2;36;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\mytext\Some_TextDbase.php;f1;28;2;36;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\admin\AdminDbase.php;f1;28;2;36;;;;vpos;;v;;a;;r;;d1,29;;b0,0;;m0;;eadmin;;p">
+</treenode>
+</treenode>
+<treenode node="Depas;PHP:Class Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\Depas.php;f0;2;1;8;;;;vpos;;v;;a;;r;;d0,3;;b0,0;;m0;;e">
+</treenode>
+<treenode node="DepasDbase;PHP:Class Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\DepasDbase.php;f0;6;1;378;;;;vpos;;v;;a;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="addDepas;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\DepasDbase.php;f1;9;2;17;;;;vpos;;v;;a;;r;;d1,10;;b0,0;;m0;;ereq;;p">
+</treenode>
+<treenode node="addSubjects;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\DepasDbase.php;f1;19;2;27;;;;vpos;;v;;a;;r;;d1,20;;b0,0;;m0;;ereq;;p">
+</treenode>
+<treenode node="checkdeletingDepa;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\DepasDbase.php;f1;91;2;109;;;;vpos;;v;;a;;r;;d1,92;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="checkdeletingDepaFromMessages;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\DepasDbase.php;f1;111;2;129;;;;vpos;;v;;a;;r;;d1,112;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="checkdeletingDepaFromTheses;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\DepasDbase.php;f1;131;2;149;;;;vpos;;v;;a;;r;;d1,132;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="checkdeletingSubjectsFromAccepted_Students;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\DepasDbase.php;f1;29;2;47;;;;vpos;;v;;a;;r;;d1,30;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="checkdeletingSubjectsFromExam_Schedule;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\DepasDbase.php;f1;49;2;67;;;;vpos;;v;;a;;r;;d1,50;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="checkdeletingSubjectsFromTime_Schedule;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\DepasDbase.php;f1;69;2;87;;;;vpos;;v;;a;;r;;d1,70;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="deleteDepas;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\DepasDbase.php;f1;211;2;216;;;;vpos;;v;;a;;r;;d1,212;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="deleteSubjects;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\DepasDbase.php;f1;218;2;223;;;;vpos;;v;;a;;r;;d1,219;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="getAllDepas;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\DepasDbase.php;f1;321;2;346;;;;vpos;;v;;a;;r;;d1,322;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getAllSubjectsByDebaID;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\DepasDbase.php;f1;348;2;375;;;;vpos;;v;;a;;r;;d1,349;;b0,0;;m0;;eid;;p">
+</treenode>
+<treenode node="getCountDepas;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\DepasDbase.php;f1;225;2;236;;;;vpos;;v;;a;;r;;d1,226;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getCountSubjects;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\DepasDbase.php;f1;238;2;249;;;;vpos;;v;;a;;r;;d1,239;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getCountSubjectsByDepa;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\DepasDbase.php;f1;251;2;262;;;;vpos;;v;;a;;r;;d1,252;;b0,0;;m0;;edepa;;p">
+</treenode>
+<treenode node="getDepaByID;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\DepasDbase.php;f1;152;2;168;;;;vpos;;v;;a;;r;;d1,153;;b0,0;;m0;;eid;;p">
+</treenode>
+<treenode node="getDepas;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\DepasDbase.php;f1;264;2;289;;;;vpos;;v;;a;;r;;d1,265;;b0,0;;m0;;eoffset;;prow_count;;p">
+</treenode>
+<treenode node="getSubjectByID;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\DepasDbase.php;f1;170;2;188;;;;vpos;;v;;a;;r;;d1,171;;b0,0;;m0;;eid;;p">
+</treenode>
+<treenode node="getSubjects;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\DepasDbase.php;f1;291;2;319;;;;vpos;;v;;a;;r;;d1,292;;b0,0;;m0;;eoffset;;prow_count;;p">
+</treenode>
+<treenode node="updateDepas;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\DepasDbase.php;f1;192;2;199;;;;vpos;;v;;a;;r;;d1,193;;b0,0;;m0;;ereq;;p">
+</treenode>
+<treenode node="updateSubjects;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\DepasDbase.php;f1;201;2;208;;;;vpos;;v;;a;;r;;d1,202;;b0,0;;m0;;ereq;;p">
+</treenode>
+</treenode>
+<treenode node="Differentiation_dates;PHP:Class Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\differentiation_dates\Differentiation_dates.php;f0;2;1;10;;;;vpos;;v;;a;;r;;d0,3;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Differentiation_datesDbase;PHP:Class Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\differentiation_dates\Differentiation_datesDbase.php;f0;4;1;43;;;;vpos;;v;;a;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="getDifferentiation_dates;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\differentiation_dates\Differentiation_datesDbase.php;f1;19;2;39;;;;vpos;;v;;a;;r;;d1,20;;b0,0;;m0;;eid;;p">
+</treenode>
+<treenode node="updateDifferentiation_dates;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\differentiation_dates\Differentiation_datesDbase.php;f1;8;2;16;;;;vpos;;v;;a;;r;;d1,9;;b0,0;;m0;;eadmin;;p">
+</treenode>
+</treenode>
+<treenode node="Exam_Schedule;PHP:Class Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_Schedule.php;f0;2;1;11;;;;vpos;;v;;a;;r;;d0,3;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Exam_Schedule_Days;PHP:Class Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_Schedule_Days.php;f0;2;1;9;;;;vpos;;v;;a;;r;;d0,3;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Exam_Schedule_Times;PHP:Class Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_Schedule_Times.php;f0;2;1;9;;;;vpos;;v;;a;;r;;d0,3;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Exam_ScheduleDbase;PHP:Class Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f0;6;1;426;;;;vpos;;v;;a;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="addExam_Schedule;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;30;2;38;;;;vpos;;v;;a;;r;;d1,31;;b0,0;;m0;;ereq;;p">
+</treenode>
+<treenode node="addExam_Schedule_Days;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;9;2;17;;;;vpos;;v;;a;;r;;d1,10;;b0,0;;m0;;ereq;;p">
+</treenode>
+<treenode node="addExam_Schedule_Times;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;19;2;27;;;;vpos;;v;;a;;r;;d1,20;;b0,0;;m0;;ereq;;p">
+</treenode>
+<treenode node="checkdeletingExam_Schedule_Days;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;40;2;58;;;;vpos;;v;;a;;r;;d1,41;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="checkdeletingExam_Schedule_Times;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;60;2;78;;;;vpos;;v;;a;;r;;d1,61;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="deleteExam_Schedule;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;255;2;260;;;;vpos;;v;;a;;r;;d1,256;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="deleteExam_Schedule_Days;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;226;2;231;;;;vpos;;v;;a;;r;;d1,227;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="deleteExam_Schedule_Times;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;233;2;238;;;;vpos;;v;;a;;r;;d1,234;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="deleteExam_ScheduleByExam_Schedule_Days;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;240;2;245;;;;vpos;;v;;a;;r;;d1,241;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="deleteExam_ScheduleByExam_Schedule_Times;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;247;2;252;;;;vpos;;v;;a;;r;;d1,248;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="getAllExam_Schedule_Days;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;394;2;421;;;;vpos;;v;;a;;r;;d1,395;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getCountExam_Schedule;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;289;2;300;;;;vpos;;v;;a;;r;;d1,290;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getCountExam_Schedule_Days;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;262;2;273;;;;vpos;;v;;a;;r;;d1,263;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getCountExam_Schedule_Times;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;275;2;286;;;;vpos;;v;;a;;r;;d1,276;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getExam_Schedule;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;360;2;392;;;;vpos;;v;;a;;r;;d1,361;;b0,0;;m0;;eoffset;;prow_count;;p">
+</treenode>
+<treenode node="getExam_Schedule_Days;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;302;2;329;;;;vpos;;v;;a;;r;;d1,303;;b0,0;;m0;;eoffset;;prow_count;;p">
+</treenode>
+<treenode node="getExam_Schedule_DaysByDepIDAndThe_DateAndThe_Day;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;101;2;131;;;;vpos;;v;;a;;r;;d1,102;;b0,0;;m0;;edepa_id;;pexam_schedule_days_id;;pexam_schedule_times_id;;p">
+</treenode>
+<treenode node="getExam_Schedule_DaysByID;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;81;2;99;;;;vpos;;v;;a;;r;;d1,82;;b0,0;;m0;;eid;;p">
+</treenode>
+<treenode node="getExam_Schedule_Times;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;331;2;358;;;;vpos;;v;;a;;r;;d1,332;;b0,0;;m0;;eoffset;;prow_count;;p">
+</treenode>
+<treenode node="getExam_Schedule_TimesByDepaID;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;152;2;168;;;;vpos;;v;;a;;r;;d1,153;;b0,0;;m0;;eid;;p">
+</treenode>
+<treenode node="getExam_Schedule_TimesByID;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;134;2;150;;;;vpos;;v;;a;;r;;d1,135;;b0,0;;m0;;eid;;p">
+</treenode>
+<treenode node="getExam_ScheduleByID;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;172;2;194;;;;vpos;;v;;a;;r;;d1,173;;b0,0;;m0;;eid;;p">
+</treenode>
+<treenode node="updateExam_Schedule;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;216;2;223;;;;vpos;;v;;a;;r;;d1,217;;b0,0;;m0;;ereq;;p">
+</treenode>
+<treenode node="updateExam_Schedule_Days;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;198;2;205;;;;vpos;;v;;a;;r;;d1,199;;b0,0;;m0;;ereq;;p">
+</treenode>
+<treenode node="updateExam_Schedule_Times;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\exam_schedule_days\Exam_ScheduleDbase.php;f1;207;2;214;;;;vpos;;v;;a;;r;;d1,208;;b0,0;;m0;;ereq;;p">
+</treenode>
+</treenode>
+<treenode node="Messages;PHP:Class Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\Messages.php;f0;2;1;17;;;;vpos;;v;;a;;r;;d0,3;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Messages_Debate;PHP:Class Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\Messages_Debate.php;f0;2;1;23;;;;vpos;;v;;a;;r;;d0,3;;b0,0;;m0;;e">
+</treenode>
+<treenode node="MessagesDbase;PHP:Class Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\MessagesDbase.php;f0;6;1;633;;;;vpos;;v;;a;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="addMessages;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\MessagesDbase.php;f1;9;2;17;;;;vpos;;v;;a;;r;;d1,10;;b0,0;;m0;;ereq;;p">
+</treenode>
+<treenode node="addMessages_Debate;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\MessagesDbase.php;f1;309;2;317;;;;vpos;;v;;a;;r;;d1,310;;b0,0;;m0;;ereq;;p">
+</treenode>
+<treenode node="checkdeletingMessaages;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\MessagesDbase.php;f1;63;2;81;;;;vpos;;v;;a;;r;;d1,64;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="deleteMessages;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\MessagesDbase.php;f1;84;2;89;;;;vpos;;v;;a;;r;;d1,85;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="deleteMessages_Debate;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\MessagesDbase.php;f1;377;2;382;;;;vpos;;v;;a;;r;;d1,378;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="getAllMessages;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\MessagesDbase.php;f1;160;2;201;;;;vpos;;v;;a;;r;;d1,161;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getAllMessages_Debate;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\MessagesDbase.php;f1;539;2;594;;;;vpos;;v;;a;;r;;d1,540;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getAllMessages_DebateByDate;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\MessagesDbase.php;f1;482;2;537;;;;vpos;;v;;a;;r;;d1,483;;b0,0;;m0;;ethe_date;;p">
+</treenode>
+<treenode node="getAllMessages_DebateByDepaID;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\MessagesDbase.php;f1;455;2;480;;;;vpos;;v;;a;;r;;d1,456;;b0,0;;m0;;edepa_id;;p">
+</treenode>
+<treenode node="getAllMessagesByDepaID;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\MessagesDbase.php;f1;203;2;244;;;;vpos;;v;;a;;r;;d1,204;;b0,0;;m0;;edepa_id;;p">
+</treenode>
+<treenode node="getAllMessagesByTitleOrDate;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\MessagesDbase.php;f1;246;2;304;;;;vpos;;v;;a;;r;;d1,247;;b0,0;;m0;;etitle;;pregistration_date;;p">
+</treenode>
+<treenode node="getCountMessages;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\MessagesDbase.php;f1;92;2;103;;;;vpos;;v;;a;;r;;d1,93;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getCountMessages_Debate;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\MessagesDbase.php;f1;384;2;395;;;;vpos;;v;;a;;r;;d1,385;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getLastMessage;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\MessagesDbase.php;f1;597;2;629;;;;vpos;;v;;a;;r;;d1,598;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getMessage_DebateByID;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\MessagesDbase.php;f1;319;2;365;;;;vpos;;v;;a;;r;;d1,320;;b0,0;;m0;;eid;;p">
+</treenode>
+<treenode node="getMessageByID;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\MessagesDbase.php;f1;20;2;52;;;;vpos;;v;;a;;r;;d1,21;;b0,0;;m0;;eid;;p">
+</treenode>
+<treenode node="getMessages;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\MessagesDbase.php;f1;106;2;148;;;;vpos;;v;;a;;r;;d1,107;;b0,0;;m0;;eoffset;;prow_count;;p">
+</treenode>
+<treenode node="getMessages_Debate;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\MessagesDbase.php;f1;398;2;453;;;;vpos;;v;;a;;r;;d1,399;;b0,0;;m0;;eoffset;;prow_count;;p">
+</treenode>
+<treenode node="updateMessages;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\MessagesDbase.php;f1;54;2;61;;;;vpos;;v;;a;;r;;d1,55;;b0,0;;m0;;ereq;;p">
+</treenode>
+<treenode node="updateMessages_Debate;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\MessagesDbase.php;f1;367;2;374;;;;vpos;;v;;a;;r;;d1,368;;b0,0;;m0;;ereq;;p">
+</treenode>
+<treenode node="updatePDF;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\messages\MessagesDbase.php;f1;150;2;157;;;;vpos;;v;;a;;r;;d1,151;;b0,0;;m0;;epdf;;pid;;p">
+</treenode>
+</treenode>
+<treenode node="Some_Text;PHP:Class Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\mytext\Some_Text.php;f0;2;1;8;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\some_text\Some_Text.php;f0;2;1;8;;;;vpos;;v;;a;;r;;d0,3;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Some_TextDbase;PHP:Class Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\mytext\Some_TextDbase.php;f0;4;1;37;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\some_text\Some_TextDbase.php;f0;4;1;37;;;;vpos;;v;;a;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="getText;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\mytext\Some_TextDbase.php;f1;19;2;35;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\some_text\Some_TextDbase.php;f1;19;2;35;;;;vpos;;v;;a;;r;;d1,20;;b0,0;;m0;;eid;;p">
+</treenode>
+<treenode node="updateText;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\mytext\Some_TextDbase.php;f1;8;2;16;;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\some_text\Some_TextDbase.php;f1;8;2;16;;;;vpos;;v;;a;;r;;d1,9;;b0,0;;m0;;eadmin;;p">
+</treenode>
+</treenode>
+<treenode node="Students;PHP:Class Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\accepted_students\Students.php;f0;2;1;15;;;;vpos;;v;;a;;r;;d0,3;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Subjects;PHP:Class Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\depas\Subjects.php;f0;2;1;9;;;;vpos;;v;;a;;r;;d0,3;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Theses;PHP:Class Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\Theses.php;f0;2;1;17;;;;vpos;;v;;a;;r;;d0,3;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Theses_Debate;PHP:Class Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\Theses_Debate.php;f0;2;1;23;;;;vpos;;v;;a;;r;;d0,3;;b0,0;;m0;;e">
+</treenode>
+<treenode node="ThesesDbase;PHP:Class Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\ThesesDbase.php;f0;6;1;635;;;;vpos;;v;;a;;r;;d0,7;;b0,0;;m0;;e">
+<treenode node="addTheses;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\ThesesDbase.php;f1;9;2;18;;;;vpos;;v;;a;;r;;d1,10;;b0,0;;m0;;ereq;;p">
+</treenode>
+<treenode node="addTheses_Debate;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\ThesesDbase.php;f1;310;2;318;;;;vpos;;v;;a;;r;;d1,311;;b0,0;;m0;;ereq;;p">
+</treenode>
+<treenode node="checkdeletingTheses;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\ThesesDbase.php;f1;64;2;82;;;;vpos;;v;;a;;r;;d1,65;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="deleteTheses;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\ThesesDbase.php;f1;85;2;90;;;;vpos;;v;;a;;r;;d1,86;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="deleteTheses_Debate;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\ThesesDbase.php;f1;378;2;383;;;;vpos;;v;;a;;r;;d1,379;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="getAllTheses;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\ThesesDbase.php;f1;161;2;202;;;;vpos;;v;;a;;r;;d1,162;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getAllTheses_Debate;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\ThesesDbase.php;f1;541;2;596;;;;vpos;;v;;a;;r;;d1,542;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getAllTheses_DebateByDate;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\ThesesDbase.php;f1;484;2;539;;;;vpos;;v;;a;;r;;d1,485;;b0,0;;m0;;ethe_date;;p">
+</treenode>
+<treenode node="getAllTheses_DebateByDepaID;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\ThesesDbase.php;f1;456;2;481;;;;vpos;;v;;a;;r;;d1,457;;b0,0;;m0;;edepa_id;;p">
+</treenode>
+<treenode node="getAllThesesByDepaID;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\ThesesDbase.php;f1;204;2;245;;;;vpos;;v;;a;;r;;d1,205;;b0,0;;m0;;edepa_id;;p">
+</treenode>
+<treenode node="getAllThesesByTitleOrDate;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\ThesesDbase.php;f1;247;2;305;;;;vpos;;v;;a;;r;;d1,248;;b0,0;;m0;;etitle;;pregistration_date;;p">
+</treenode>
+<treenode node="getCountTheses;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\ThesesDbase.php;f1;93;2;104;;;;vpos;;v;;a;;r;;d1,94;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getCountTheses_Debate;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\ThesesDbase.php;f1;385;2;396;;;;vpos;;v;;a;;r;;d1,386;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getLastThese;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\ThesesDbase.php;f1;598;2;630;;;;vpos;;v;;a;;r;;d1,599;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getTheseByID;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\ThesesDbase.php;f1;21;2;53;;;;vpos;;v;;a;;r;;d1,22;;b0,0;;m0;;eid;;p">
+</treenode>
+<treenode node="getTheses;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\ThesesDbase.php;f1;107;2;149;;;;vpos;;v;;a;;r;;d1,108;;b0,0;;m0;;eoffset;;prow_count;;p">
+</treenode>
+<treenode node="getTheses_Debate;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\ThesesDbase.php;f1;399;2;454;;;;vpos;;v;;a;;r;;d1,400;;b0,0;;m0;;eoffset;;prow_count;;p">
+</treenode>
+<treenode node="getTheses_DebateByID;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\ThesesDbase.php;f1;320;2;366;;;;vpos;;v;;a;;r;;d1,321;;b0,0;;m0;;eid;;p">
+</treenode>
+<treenode node="updatePDF;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\ThesesDbase.php;f1;151;2;158;;;;vpos;;v;;a;;r;;d1,152;;b0,0;;m0;;epdf;;pid;;p">
+</treenode>
+<treenode node="updateTheses;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\ThesesDbase.php;f1;55;2;62;;;;vpos;;v;;a;;r;;d1,56;;b0,0;;m0;;ereq;;p">
+</treenode>
+<treenode node="updateTheses_Debate;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\theses\ThesesDbase.php;f1;368;2;375;;;;vpos;;v;;a;;r;;d1,369;;b0,0;;m0;;ereq;;p">
+</treenode>
+</treenode>
+<treenode node="Time_Schedule;PHP:Class Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\time_schedule\Time_Schedule.php;f0;2;1;12;;;;vpos;;v;;a;;r;;d0,3;;b0,0;;m0;;e">
+</treenode>
+<treenode node="Time_ScheduleDbase;PHP:Class Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\time_schedule\Time_ScheduleDbase.php;f0;4;1;169;;;;vpos;;v;;a;;r;;d0,5;;b0,0;;m0;;e">
+<treenode node="addTime_Schedule;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\time_schedule\Time_ScheduleDbase.php;f1;160;2;168;;;;vpos;;v;;a;;r;;d1,161;;b0,0;;m0;;ereq;;p">
+</treenode>
+<treenode node="deleteTime_Schedule;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\time_schedule\Time_ScheduleDbase.php;f1;6;2;11;;;;vpos;;v;;a;;r;;d1,7;;b0,0;;m0;;eid_c;;p">
+</treenode>
+<treenode node="getAllTime_ScheduleByDepaID;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\time_schedule\Time_ScheduleDbase.php;f1;61;2;94;;;;vpos;;v;;a;;r;;d1,62;;b0,0;;m0;;edepa_id;;p">
+</treenode>
+<treenode node="getCountTime_Schedule;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\time_schedule\Time_ScheduleDbase.php;f1;13;2;24;;;;vpos;;v;;a;;r;;d1,14;;b0,0;;m0;;e">
+</treenode>
+<treenode node="getTime_Schedule;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\time_schedule\Time_ScheduleDbase.php;f1;26;2;59;;;;vpos;;v;;a;;r;;d1,27;;b0,0;;m0;;eoffset;;prow_count;;p">
+</treenode>
+<treenode node="getTime_ScheduleByID;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\time_schedule\Time_ScheduleDbase.php;f1;97;2;121;;;;vpos;;v;;a;;r;;d1,98;;b0,0;;m0;;eshop_id;;p">
+</treenode>
+<treenode node="getTime_ScheduleBySubject_IDAndThe_Day;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\time_schedule\Time_ScheduleDbase.php;f1;123;2;147;;;;vpos;;v;;a;;r;;d1,124;;b0,0;;m0;;esubject_id;;pthe_day;;p">
+</treenode>
+<treenode node="updateTime_Schedule;PHP:Function Name;E:\my projects\ãÔÑæÚ ßáíÉ ÇáÇÞÊÕÇÏ ááãÌÓÊíÑ æÇáÏßÊæÑÇ ÑÇÈÚÉ äæÑ ÇÞÊÕÇÏ\ÇáãÔÑæÚ\database\time_schedule\Time_ScheduleDbase.php;f1;150;2;157;;;;vpos;;v;;a;;r;;d1,151;;b0,0;;m0;;ereq;;p">
+</treenode>
+</treenode>
+</phptree>
+</codestructure>
